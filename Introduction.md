@@ -1,2 +1,3 @@
 # Hello!
-I'm Rabbi
+I am Rabbi
+I am studying at AIUB
